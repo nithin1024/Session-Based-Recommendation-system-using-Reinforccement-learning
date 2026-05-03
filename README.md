@@ -1,4 +1,4 @@
-# Production-Grade Session-Based Recommendation System (SBRS)
+# Session-Based Recommendation System using Reinforcement Learning
 
 A complete framework for training, evaluating, and comparing Session-Based Recommendation models using an RL-like abstraction of Environments and Agents.
 
